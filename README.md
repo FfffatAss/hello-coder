@@ -1,3 +1,3 @@
 # hello-coder
 a toy.
-learning github.
+learning github. 
